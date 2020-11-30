@@ -1,0 +1,21 @@
+body {
+    background: url(https://i1.wp.com/anith.com/wp-content/uploads/2018/09/Ring-Infinite-Loop-Apple-5-w.jpg?resize=1024%2C536&ssl=1);
+    
+}
+
+div {
+    background: #00ffb7;
+    border-color: blue;
+    border-width: medium;
+    border-style: solid;
+}
+
+
+p {
+    color: yellow;
+}
+
+span {
+    background: black;
+    color: red;
+}
