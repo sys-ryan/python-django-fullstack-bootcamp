@@ -1,0 +1,36 @@
+/* coolors.co */
+
+h1 {
+    font-family: 'Major Mono Display', monospace;
+    text-align: center;
+}
+
+.art {
+    margin: auto;
+}
+
+td {
+    height : 350px;
+    width : 200px; 
+    border: 6px solid white;
+}
+
+#one {
+    background: #d88c9a;
+}
+
+#two { 
+    background: #f2d0a9;
+}
+
+#three {
+    background: #f1e3d3;
+}
+
+#four {
+    background: #99c1b9;
+}
+
+#five {
+    background: #8e7dbe;
+}

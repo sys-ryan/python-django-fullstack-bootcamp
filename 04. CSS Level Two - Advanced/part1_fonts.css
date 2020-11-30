@@ -1,0 +1,36 @@
+h1 {
+    font-family: "Arial";
+}
+
+p {    
+    font-weight: bold;
+}
+
+body {
+    font-size: 20px;
+}
+
+#two {
+    font-size: 2.0em;
+}
+
+
+/* 
+<defualt> 
+1em = 16px
+2em = 32px */
+
+
+h1 {
+    text-align: center;
+}
+
+/* 
+cssfontstack.com 
+fonts.google.com 
+fontlibrary.org
+*/ 
+
+#three {
+    font-family: 'Nerko One', cursive;
+}
