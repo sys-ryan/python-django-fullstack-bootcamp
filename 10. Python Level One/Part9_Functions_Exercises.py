@@ -149,7 +149,6 @@ def fix_teen(n):
 
 def count_evens(nums):
   # CODE GOES HERE
-
   cnt = 0
   for num in nums:
     if num % 2 == 0:
